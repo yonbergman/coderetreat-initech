@@ -12,3 +12,6 @@ For use in a coderetreat setting.
 * Manually add the list of Languages you want to support (use the column `name`)
 * Copy your keys to `application.coffee`
 * Deploy to Heroku or S3
+
+
+## Screenshots
