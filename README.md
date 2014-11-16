@@ -15,3 +15,13 @@ For use in a coderetreat setting.
 
 
 ## Screenshots
+
+Upload a new file
+![](https://raw.githubusercontent.com/yonbergman/coderetreat-initech/master/screenshots/upload.png)
+
+Choose the language you want to work in
+![](https://raw.githubusercontent.com/yonbergman/coderetreat-initech/master/screenshots/choose.png)
+
+Download a random piece of code
+![](https://raw.githubusercontent.com/yonbergman/coderetreat-initech/master/screenshots/download.png)
+
